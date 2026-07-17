@@ -1,7 +1,9 @@
 <div align="center" width="100%">
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/K-ANT0?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=900&lines=+Kant+bel+🐇;16➕)](https://git.io/typing-svg)
+
+ ![GitHub followers](https://img.shields.io/github/followers/K-ANT0?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 
 
 <picture>
