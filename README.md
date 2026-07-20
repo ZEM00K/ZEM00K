@@ -1,7 +1,7 @@
 <div align="center" width="100%">
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=900&lines=+Kant+bel+🐇;16➕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=900&lines=+Kant+bel+🐇;)](https://git.io/typing-svg)
 
  ![GitHub followers](https://img.shields.io/github/followers/K-ANT0?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 
@@ -14,4 +14,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kant.t1)
